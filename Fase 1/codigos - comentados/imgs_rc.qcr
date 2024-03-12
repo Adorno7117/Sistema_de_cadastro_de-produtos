@@ -1,0 +1,5 @@
+<qresource prefix="/images">
+    <file>path/to/image1.png</file>
+    <file>path/to/image2.png</file>
+    <!-- Adicione mais arquivos conforme necessário -->
+</qresource>
